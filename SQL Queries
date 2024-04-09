@@ -1,4 +1,4 @@
-# The code for the project :
+-- The code for the project written in postgreSQL :
 
 CREATE TABLE Users (
     user_id SERIAL PRIMARY KEY,
