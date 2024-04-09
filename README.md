@@ -1,1 +1,2 @@
 # Instagram-Data-Model-Analytics-Project
+In this project, i have designed a data model for Instagram using PostgreSQL. I have created different tables and built the data model, generated SQL create table statements, inserted data, showed examples of updating data, and added analytics examples using where condition, orderby, group by, having clause, and explained different aggregation functions. I have also covered subquery, window function, CTE, case statement, date casting, and working with dates.
